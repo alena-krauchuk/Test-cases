@@ -10,7 +10,7 @@ The user must be able to
 - save and clear data,
 - contact support.
 
-<a href="https://docs.google.com/document/d/1nKFWYa_oc10ALcMq_MeAVQeaZ1RJzf2MNZUunSX3zTs/edit?usp=sharing">Here</a> is a link to the checklist of the main functionality of the application in Russian and English.</p>
+<a href="https://docs.google.com/document/d/1nKFWYa_oc10ALcMq_MeAVQeaZ1RJzf2MNZUunSX3zTs/edit?usp=sharing">Here</a> is a link to the checklist of the main functionality of the application in Russian and English.</p></p>
 
 
 
@@ -26,5 +26,5 @@ The user must be able to
 - сохранять и очищать данные,
 - контактировать со службой поддержки.
 
-<a href="https://docs.google.com/document/d/1nKFWYa_oc10ALcMq_MeAVQeaZ1RJzf2MNZUunSX3zTs/edit?usp=sharing">Здесь</a> размещена ссылка на чеклист основных функциональностей приложения на русском и английском языках
+<a href="https://docs.google.com/document/d/1nKFWYa_oc10ALcMq_MeAVQeaZ1RJzf2MNZUunSX3zTs/edit?usp=sharing">Здесь</a> размещена ссылка на чеклист основных функциональностей приложения на русском и английском языках.</p>
 ```bash
