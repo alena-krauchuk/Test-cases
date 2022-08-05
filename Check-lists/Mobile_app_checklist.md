@@ -10,11 +10,11 @@ The user must be able to
 - save and clear data,
 - contact support.
 
-<a href="https://docs.google.com/document/d/1nKFWYa_oc10ALcMq_MeAVQeaZ1RJzf2MNZUunSX3zTs/edit?usp=sharing">Here</a> is a link to the checklist of the main functionality of the application in Russian and English.
+<a href="https://docs.google.com/document/d/1nKFWYa_oc10ALcMq_MeAVQeaZ1RJzf2MNZUunSX3zTs/edit?usp=sharing">Here</a> is a link to the checklist of the main functionality of the application in Russian and English.</p>
 
 
 
-Чеклист для мобильного приложения
+<p>Чеклист для мобильного приложения</p>
 
 Это мобильное приложение создано для выполнения определенных манипуляций на экране мобильного девайса. 
 Чеклист составлен с целью проверки основных функциональностей.
